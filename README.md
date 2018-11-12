@@ -8,17 +8,11 @@
 
 3 available folders 
 
-CSV - All CSV files with the distance calculation results
+#CSV - All CSV files with the distance calculation results
 
-scripts - Python scripts of plotting functions 
+#scripts - Python scripts of plotting functions 
 
-Fig - Figure files , Results of the scripts
+#Figs - Figure files , Results of the scripts
 
 
-Inline-style: 
-![alt text](https://github.com/hagitbenshoshan/plots/figs/all_metrics.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/hagitbenshoshan/plots/raw/master/src/figs/all_metrics.png "Logo Title Text 2"
+![alt text](https://github.com/hagitbenshoshan/plots/blob/master/figs/all_metrics.png "All Metrics")
