@@ -14,7 +14,7 @@ import seaborn as sns
 import pandas as pd
 sns.set(style="white", context="talk")
 cc = sns.color_palette('Set1')
-data = pd.read_csv('C:/Users/user/Downloads/amazon.csv') 
+data = pd.read_csv('~/Documents/GitHub/plots/csv/amazon.csv')
 fig, ax = plt.subplots(figsize=(7, 5))
  
 x2 = list(data['Vocabulary Size'])
